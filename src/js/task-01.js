@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // Find the ul#categories element
   var categoriesList = document.getElementById("categories");
 
   // Count and display the total number of categories
